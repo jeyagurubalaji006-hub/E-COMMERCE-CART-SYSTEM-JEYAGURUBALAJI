@@ -1,4 +1,4 @@
-E-commerce Cart System
+E-COMMERCE CART SYSTEM
 
 A simple full-stack e-commerce cart system with React frontend and Node.js backend using MongoDB.
 
